@@ -1,0 +1,10 @@
+Github IDs:
+    Calvin Wetzel: ImCalv1n
+    Mukul Dev Chhangani: mukuldevchhangani
+
+--Contributions--
+Calvin:
+    I added the linear layer and logsoftmax to make the two-class classifier a ten-class classifier. I ran
+    accuracy tests on more than one qubit for a one quantum circuit design. I modified the code to run with two
+    quantum circuits for both forwards and backwards propogation. I tuned the model and modified the training to
+    report training and validation loss. I ran the model and collected the data.
