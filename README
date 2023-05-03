@@ -8,3 +8,11 @@ Calvin:
     accuracy tests on more than one qubit for a one quantum circuit design. I modified the code to run with two
     quantum circuits for both forwards and backwards propogation. I tuned the model and modified the training to
     report training and validation loss. I ran the model and collected the data.
+
+--Running Code--
+It is recommended that you use this link to run the code in Google colab:
+https://colab.research.google.com/drive/1a_CSHqQfDGmcJg2Ak3lwVai8s1Vm0rs6?usp=sharing
+PLEASE NOTE:
+This google file is used as the final version of the code that was written, tested, and run in other colab files.
+After changes in code were working properly, they were moved into this file and pushed to github. If you are suspicious about the edit history of the code, Calvin can show you files that contain the actual edit history
+and modification of the working code.
