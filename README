@@ -8,7 +8,10 @@ Calvin:
     accuracy tests on more than one qubit for a one quantum circuit design. I modified the code to run with two
     quantum circuits for both forwards and backwards propogation. I tuned the model and modified the training to
     report training and validation loss. I ran the model and collected the data.
-
+Mukul Dev :
+    I have tried to implement the 2 class classfier using qisit library which is Hybrid CNN. I have tried 
+    to run the change the qunatum circuits for understanding their impact in accuracy and tried to tweak the number of qubits in
+    the code. 
 --Running Code--
 It is recommended that you use this link to run the code in Google colab:
 https://colab.research.google.com/drive/1a_CSHqQfDGmcJg2Ak3lwVai8s1Vm0rs6?usp=sharing
